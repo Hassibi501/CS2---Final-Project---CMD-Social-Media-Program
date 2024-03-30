@@ -5,9 +5,9 @@ This project is designed to simulate a simple social media platform through a C+
 
 # Files Needed to Run Project:
 
-[SMUsers.csv](https://github.com/Hassibi501/CS2---Final-Project---CMD-Social-Media-Program/files/14813117/SMUsers.csv)[SMUserPosts.csv](https://github.com/Hassibi501/CS2---Final-Project---CMD-Social-Media-Program/files/14813114/SMUserPosts.csv)
+[SMUsers.csv](https://github.com/Hassibi501/CS2---Final-Project---CMD-Social-Media-Program/files/14813117/SMUsers.csv)
 
-[SMUserPosts.csv](https://github.com/Hassibi501/CS2---Final-Project---CMD-Social-Media-Program/files/14813112/SMUserPosts.csv)# Project Description:
+[SMUserPosts.csv](https://github.com/Hassibi501/CS2---Final-Project---CMD-Social-Media-Program/files/14813112/SMUserPosts.csv)
 
 
 # Project Feature Showcase:
