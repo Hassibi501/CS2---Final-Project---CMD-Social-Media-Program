@@ -1,12 +1,13 @@
-[SMUsers.csv](https://github.com/Hassibi501/CS2---Final-Project---CMD-Social-Media-Program/files/14813117/SMUsers.csv)[SMUserPosts.csv](https://github.com/Hassibi501/CS2---Final-Project---CMD-Social-Media-Program/files/14813114/SMUserPosts.csv)[SMUserPosts.csv](https://github.com/Hassibi501/CS2---Final-Project---CMD-Social-Media-Program/files/14813112/SMUserPosts.csv)# Project Description:
+
+
 
 This project is designed to simulate a simple social media platform through a C++ application, focusing on user and post-management. It involves creating, managing, and displaying social media users and their posts, with data stored in Standard Template Library (STL) Maps and MultiMaps and sourced from CSV files. The project is segmented into several key requirements, each building towards a comprehensive system. The project effectively simulates a basic framework for a social media platform, using C++ classes, STL containers, file I/O, and dynamic memory management. It showcases my ability to integrate various C++ features and principles, including object-oriented programming, data validation, and user interaction through a console-based menu system.
 
 # Files Needed to Run Project:
 
-[SMUsers.csv]()
+[SMUsers.csv](https://github.com/Hassibi501/CS2---Final-Project---CMD-Social-Media-Program/files/14813117/SMUsers.csv)[SMUserPosts.csv](https://github.com/Hassibi501/CS2---Final-Project---CMD-Social-Media-Program/files/14813114/SMUserPosts.csv)
 
-[SMUserPosts.csv]()
+[SMUserPosts.csv](https://github.com/Hassibi501/CS2---Final-Project---CMD-Social-Media-Program/files/14813112/SMUserPosts.csv)# Project Description:
 
 
 # Project Feature Showcase:
